@@ -1,2 +1,3 @@
-AVR_DA_GPIO_Debouncing/AVR_DA_GPIO_Debouncing/Debug
-AVR_DA_GPIO_Debouncing/.vs
+*/AVR_DA_GPIO_Debouncing/Debug/
+*/AVR_DA_GPIO_Debouncing/Release/
+*/.vs
